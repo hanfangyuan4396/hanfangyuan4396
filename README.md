@@ -7,7 +7,7 @@
 
 ### 📫 How to reach me
 - blog: [csdn](https://blog.csdn.net/weixin_44387339?type=blog)
-- email: [i@hanfangyuan.cn](i@hanfangyuan.cn)
+- email: [i@hanfangyuan.cn](mailto:i@hanfangyuan.cn)
 
 <!--
 **hanfangyuan4396/hanfangyuan4396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
